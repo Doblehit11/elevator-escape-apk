@@ -1,12 +1,11 @@
-﻿# Elevator Escape v0.1.5
+﻿# Elevator Escape v0.1.6
 
-**Descarga:** https://github.com/Doblehit11/elevator-escape-apk/releases/download/v0.1.5/ElevatorEscape-v0.1.5.apk
+**Descarga:** https://github.com/Doblehit11/elevator-escape-apk/releases/download/v0.1.6/ElevatorEscape-v0.1.6.apk
 
-1. Desinstalá la version anterior
-2. Abrí el APK desde **Archivos** (no desde Chrome)
-3. Instalá y abrí el icono del juego
+Desinstalá la anterior · abrí el APK desde Archivos · instalá.
 
 ## Novedades
-- Personas con cuerpo completo (ya no solo caritas)
-- Al tocar un piso, suben solos los que esperan
-- Niveles un poco mas dificiles (menos capacidad / turnos)
+- Habitaciones de hotel con puerta, marco y margenes
+- Subis personas de a 1 (tocá cada una)
+- ENTREGAR desde cualquier piso (boton arriba)
+- Con salidas de color: elegí el color primero
