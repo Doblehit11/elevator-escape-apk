@@ -1,12 +1,12 @@
-﻿# Elevator Escape — APK
+﻿# Instalar Elevator Escape v0.1.4
 
-Descarga directa (sin login):
+**Link directo (sin login):**
+https://github.com/Doblehit11/elevator-escape-apk/releases/download/v0.1.4/ElevatorEscape-v0.1.4.apk
 
-**[ElevatorEscape-v0.1.3.apk](https://github.com/Doblehit11/elevator-escape-apk/releases/download/v0.1.3/ElevatorEscape-v0.1.3.apk)**
+Tambien esta en el Escritorio de la PC: ElevatorEscape-v0.1.4.apk (pasala por USB/Bluetooth).
 
-1. Descargá el archivo
-2. Abrilo desde **Archivos / Descargas** (no desde el navegador de GitHub)
-3. Instalá (permití apps desconocidas)
-4. Abrí **Elevator Escape** desde el menú de apps
+1. Desinstalá versiones viejas
+2. Abrí el APK desde **Archivos** del celular (NO desde Chrome/GitHub)
+3. Instalá y abrí el icono **Elevator Escape**
 
-El codigo fuente sigue privado.
+Si al tocar algo volvés a una web de GitHub, estabas en el navegador: la app se habia cerrado. Esta build corrige crashes (minify + audio).
