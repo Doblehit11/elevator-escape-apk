@@ -1,11 +1,13 @@
-﻿# Elevator Escape v0.1.6
+﻿# Elevator Escape v0.1.8
 
-**Descarga:** https://github.com/Doblehit11/elevator-escape-apk/releases/download/v0.1.6/ElevatorEscape-v0.1.6.apk
+**Descarga:** https://github.com/Doblehit11/elevator-escape-apk/releases/download/v0.1.8/ElevatorEscape-v0.1.8.apk
 
 Desinstalá la anterior · abrí el APK desde Archivos · instalá.
 
 ## Novedades
-- Habitaciones de hotel con puerta, marco y margenes
-- Subis personas de a 1 (tocá cada una)
-- ENTREGAR desde cualquier piso (boton arriba)
-- Con salidas de color: elegí el color primero
+- Menú de inicio animado (hotel, gente, perros, ascensor)
+- Fila en la puerta: solo sube el más cercano primero
+- Mantenimiento de piso (bloqueado X turnos)
+- Un solo color por viaje en el ascensor
+- UI más limpia (sin botones ABIRIR/CERRAR)
+- 20 niveles rediseñados con dificultad progresiva
